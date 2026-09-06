@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Luca!
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/wZYGfH73/image-removebg-preview.png" alt="image removebg preview" border="0"></a>
-
 ---
 
 ### 📌 About Me
