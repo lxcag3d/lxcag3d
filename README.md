@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Luca!
 
-![Static Badge](https://img.shields.io/badge/...-white)
-
 ---
 
 ### 📌 About Me
