@@ -5,7 +5,7 @@
 ---
 
 ### 📌 About Me
-* 🌐 Based in **North Rhine-Westphalia, Germany** <img src="https://wikimedia.org" width="22" alt="NRW Wappen" valign="middle" /> 🇩🇪
+* ![Static Badge](https://w7.pngwing.com/pngs/367/249/png-transparent-coat-of-arms-of-north-rhine-westphalia-states-of-germany-rhineland-saxon-steed-coat-of-arms-of-north-rhinewestphalia-food-national-emblem-fictional-character.png) Based in **North Rhine-Westphalia, Germany**
 * 🚀 Running and developing a custom **FiveM Server**
 * 🛠️ Deep diving into **Lua scripting** for frameworks like QB-Core / ESX
 * 💬 Ask me about: FiveM optimization, server architecture, and script development
