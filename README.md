@@ -182,11 +182,6 @@ Currently learning and experimenting with:
 # 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lxcag3d&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxcag3d&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxcag3d&theme=github-dark-blue&hide_border=true"/>
 </p>
 
