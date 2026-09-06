@@ -13,10 +13,10 @@
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Programming Languages
-![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/Lua-blue)
+![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/Lua-darkblue)
 
 #### 🎮 Gaming & Infrastructure
-<img src="https://shields.io" alt="FiveM" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="VS Code" />
+<img src="https://i.ibb.co/qY3z554y/fivem-logo-modern-orange-a-logo-4-Nu2ik-QG-removebg-preview.png" height="20" valign="middle"> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Linux" /> <img src="https://i.ibb.co/4nPk5dgp/Visual-Studio-Code-1-35-icon.webp" height="20" valign="middle"> />
 
 ---
 
