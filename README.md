@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Luca!
-
+---
+![GitHubCard](https://githubcard.com/lxcag3d.svg?d=jeb1IPRMlc_f)
 ---
 
 ### 📌 About Me
@@ -10,21 +11,17 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/Lua-darkblue)
 
-#### 🎮 Gaming & Infrastructure
+### 🎮 Gaming & Infrastructure
 <img src="https://i.ibb.co/qY3z554y/fivem-logo-modern-orange-a-logo-4-Nu2ik-QG-removebg-preview.png" height="20" valign="middle"> FiveM, <img src="https://i.ibb.co/4RCBjmVk/My-SQL-logo.jpg" height="20" valign="middle"> MySQL, <img src="https://i.ibb.co/JWHbHF4c/Tux-29.webp" height="20" valign="middle"> Linux, <img src="https://i.ibb.co/4nPk5dgp/Visual-Studio-Code-1-35-icon.webp" height="20" valign="middle"> VSCode
 
 ---
 
-### 📊 GitHub Stats
-![GitHubCard](https://githubcard.com/lxcag3d.svg?d=jeb1IPRMlc_f)
----
-
 ### 🔗 Connect with me
-<a href="https://discord.gg" target="_blank">
-  <img src="https://shields.io" alt="Discord" />
+<a href="https://discord.gg/sASuTNnk2D" target="_blank">
+  <img src="https://i.ibb.co/nM51FzLL/discord-icon.jpg" height="20" valign="middle"> Discord
 </a>
