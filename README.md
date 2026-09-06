@@ -5,7 +5,7 @@
 ---
 
 ### 📌 About Me
-* 🌐 Based in **North Rhine-Westphalia, Germany** ![NRW](https://shields.io) 🇩🇪
+* 🌐 Based in **North Rhine-Westphalia, Germany** <img src="https://wikimedia.org" width="22" alt="NRW Wappen" valign="middle"> 🇩🇪
 * 🚀 Running and developing a custom **FiveM Server**
 * 🛠️ Deep diving into **Lua scripting** for frameworks like QB-Core / ESX
 * 💬 Ask me about: FiveM optimization, server architecture, and script development
@@ -28,6 +28,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
+  <!-- Zuverlässige Alternative für GitHub-Statistiken -->
   <img src="https://vercel.app" alt="GitHub Stats" height="150" />
   <img src="https://vercel.app" alt="Top Languages" height="150" />
 </p>
