@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Luca!
 ---
-![GitHubCard](https://githubcard.com/lxcag3d.svg?d=jeb1IPRMlc_f)
+![GitHubCard](https://githubcard.com/lxcag3d.svg?d=b_1IGHkWTdR7)
 ---
 
 ### 📌 About Me
