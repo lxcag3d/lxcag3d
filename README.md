@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Luca!
 
-<img src="https://demolab.com" alt="Typing SVG" />
+![Static Badge](https://img.shields.io/badge/...-white)
 
 ---
 
