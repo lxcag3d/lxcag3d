@@ -1,11 +1,13 @@
 # Hi there! 👋 I'm Luca!
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wZYGfH73/image-removebg-preview.png" alt="image removebg preview" border="0"></a>
+
 ---
 
 ### 📌 About Me
 * <img src="https://i.ibb.co/CprPC4Gm/Wappenzeichen-NRW-svg.webp" height="20" valign="middle"> Based in **North Rhine-Westphalia, Germany**
 * <img src="https://i.ibb.co/sprzqJ4G/tlrp-transparent.png" height="20" valign="middle"> Running and developing a custom **FiveM Server**
-* <img src="https://i.ibb.co/KjtDMXzf/image-removebg-preview.png" height="20" valign="middle"> Deep diving into **Lua scripting** for frameworks like QB-Core / ESX
+* <img src="https://i.ibb.co/wZYGfH73/image-removebg-preview.png" height="20" valign="middle"> Deep diving into **Lua scripting** for frameworks like QB-Core / ESX
 * <img src="https://i.ibb.co/0VRP55fC/communication-icon-chat-icon-white-line-png-clipart-removebg-preview.png" height="20" valign="middle"> Ask me about: FiveM optimization, server architecture, and script development
 
 ---
