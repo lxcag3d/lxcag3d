@@ -1,3 +1,2 @@
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Python](https://shields.io)
+![Anurags GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
