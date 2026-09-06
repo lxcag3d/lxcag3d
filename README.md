@@ -308,27 +308,35 @@ if (codeWorks) {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lxcag3d&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/github/followers/lxcag3d?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=5865F2" alt="GitHub Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/lxcag3d?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&color=F1C40F" alt="GitHub Stars"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=lxcag3d&style=for-the-badge&color=9B59B6&label=Profile+Views" alt="Profile Views"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxcag3d&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lxcag3d&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lxcag3d&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📡 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lxcag3d&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+<img src="https://img.shields.io/badge/Main%20Branch-main-5865F2?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Shipping%20Code-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bugs-Definitely%20Present-E74C3C?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+
+<br><br>
+
+<code>git add .</code>
+&nbsp;→&nbsp;
+<code>git commit -m "small fix"</code>
+&nbsp;→&nbsp;
+<code>+472 files changed</code>
 
 </div>
 
@@ -338,7 +346,11 @@ if (codeWorks) {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lxcag3d/lxcag3d/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxcag3d/lxcag3d/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxcag3d/lxcag3d/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lxcag3d/lxcag3d/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -346,11 +358,51 @@ if (codeWorks) {
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Developer Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lxcag3d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://img.shields.io/badge/🎮%20FiveM-Developer-F40552?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌙%20Lua-Enjoyer-2C2D72?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐧%20Linux-Server%20Tinkerer-FCC624?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🗄️%20SQL-Query%20Survivor-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔧%20Production-Still%20Running-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐛%20Bugs-Creator%20%26%20Destroyer-E74C3C?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🔥%20FXServer-Restart%20Professional-F40552?style=flat-square"/>
+<img src="https://img.shields.io/badge/💾%20Backups-Hopefully-3498DB?style=flat-square"/>
+<img src="https://img.shields.io/badge/☕%20Coffee-Optional-795548?style=flat-square"/>
+<img src="https://img.shields.io/badge/💥%20Production-Do%20Not%20Touch-E74C3C?style=flat-square"/>
+
+</div>
+
+---
+
+# 🛰️ Infrastructure Status
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><b>FiveM</b><br>🟢 Online*</td>
+<td align="center"><b>Linux</b><br>🟢 Running</td>
+<td align="center"><b>MariaDB</b><br>🟢 Connected</td>
+<td align="center"><b>Apache</b><br>🟢 Serving</td>
+</tr>
+<tr>
+<td align="center"><b>Node.js</b><br>🟢 Alive</td>
+<td align="center"><b>Backups</b><br>🟡 Probably</td>
+<td align="center"><b>Brain</b><br>🟠 Compiling</td>
+<td align="center"><b>Bugs</b><br>🔴 Unlimited</td>
+</tr>
+</table>
+
+<sub>*until I touch something</sub>
 
 </div>
 
