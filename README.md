@@ -1,4 +1,17 @@
+<div align="center">
+
 # Hi there! 👋 I'm Luca!
+
+### Developer • FiveM Enthusiast • Server Tinkerer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=FiveM+Developer+%F0%9F%8E%AE;Lua+Enjoyer+%F0%9F%8C%99;Linux+Server+Tinkerer+%F0%9F%90%A7;Breaking+things+until+they+work+%F0%9F%94%A7;Probably+restarting+FXServer..." alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=lxcag3d&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/lxcag3d?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
+
+</div>
 
 ---
 
@@ -13,7 +26,9 @@
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="20" valign="middle">  Deep diving into **Lua scripting** and FiveM development
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="20" valign="middle">  Working with **Linux servers, infrastructure & backend systems**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20" valign="middle">  Building and managing **databases & server-side systems**
+* 🧠  Currently learning more about **Python, desktop apps & automation**
 * 💬  Ask me about **FiveM optimization, server architecture & script development**
+* 🔧  I have a suspicious tendency to turn *"small changes"* into completely new systems
 
 ---
 
@@ -31,9 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45" alt="HTML" title="HTML"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS" title="CSS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#"/>
 </p>
 
-### 🎮 FiveM Development
+### 🎮 FiveM & Game Development
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/fivem/F40552" height="45" alt="FiveM" title="FiveM"/>
@@ -43,7 +60,7 @@
   <img src="https://cdn.simpleicons.org/rockstargames/FFAB00" height="45" alt="Rockstar Games" title="Rockstar Games"/>
 </p>
 
-`ESX` • `QB-Core` • `Custom Resources` • `NUI` • `Server Optimization` • `Vehicle Systems`
+`ESX` • `QB-Core` • `Custom Resources` • `NUI` • `Server Optimization` • `Vehicle Systems` • `Game Systems` • `Resource Development`
 
 ### 🗄️ Databases
 
@@ -65,6 +82,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="45" alt="npm" title="npm"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="45" alt="Bash" title="Bash"/>
 </p>
 
 ### 🔧 Development Tools
@@ -95,6 +114,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js"/>
 </p>
 
+### 🪟 Desktop & OS
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="45" alt="Windows" title="Windows"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET" title=".NET"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#"/>
+</p>
+
+### 📡 Networking & Server Stuff
+
+`SSH` • `SFTP` • `HTTP/S` • `REST APIs` • `Reverse Proxy` • `DNS` • `Linux Services` • `Process Management` • `Server Monitoring`
+
 ---
 
 # 🚀 What I Work On
@@ -105,21 +140,22 @@
 
 ### 🎮 FiveM Development
 
-Custom resources and systems for FiveM servers with a focus on:
+Custom resources and systems with a focus on:
 
 * Lua scripting
 * ESX & QB-Core
-* Custom gameplay systems
+* Gameplay systems
 * NUI interfaces
 * Vehicle systems
 * Server optimization
+* Custom tooling
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖥️ Infrastructure
 
-Running and maintaining server infrastructure including:
+Running and maintaining infrastructure including:
 
 * Debian / Linux
 * Apache
@@ -137,7 +173,7 @@ Running and maintaining server infrastructure including:
 
 ### 🌐 Web Development
 
-Building modern web interfaces and services using:
+Building modern interfaces and services using:
 
 * HTML & CSS
 * JavaScript
@@ -151,13 +187,13 @@ Building modern web interfaces and services using:
 
 ### 🧪 Exploring
 
-Currently learning and experimenting with:
+Currently experimenting with:
 
 * Python
 * Desktop applications
-* Server tooling
+* C# / .NET
 * Automation
-* Game development tools
+* Developer tooling
 * Infrastructure optimization
 
 </td>
@@ -169,36 +205,233 @@ Currently learning and experimenting with:
 # ⚡ Current Focus
 
 ```text
-🎮  FiveM          ████████████████████
-🌙  Lua            ██████████████████░░
-🐧  Linux          █████████████████░░░
-🗄️  Databases      ████████████████░░░░
-🌐  Web            ███████████████░░░░░
-🐍  Python         █████████░░░░░░░░░░░
+🎮 FiveM          ████████████████████  100%
+🌙 Lua            ██████████████████░░   90%
+🐧 Linux          █████████████████░░░   85%
+🗄️ Databases      ████████████████░░░░   80%
+🌐 Web            ███████████████░░░░░   75%
+🐍 Python         █████████░░░░░░░░░░░   45%
 ```
 
 ---
 
-# 📊 GitHub
+# 🖥️ `luca@github:~$`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxcag3d&theme=github-dark-blue&hide_border=true"/>
-</p>
+```bash
+$ whoami
+Luca
+
+$ location
+North Rhine-Westphalia, Germany 🇩🇪
+
+$ cat interests.txt
+FiveM
+Lua
+Linux
+Servers
+Web Development
+Desktop Applications
+Networking
+Automation
+
+$ uptime
+Probably too long.
+
+$ sudo fix-production
+[sudo] password for luca: ********
+Error: works on my machine
+
+$ sudo systemctl restart everything
+Warning: questionable life choices detected.
+
+$ git status
+On branch main
+Your code is somehow working.
+nothing to commit, don't touch anything.
+
+$ _
+```
+
+---
+
+# 🧠 Developer Logic
+
+```javascript
+while (codeDoesntWork) {
+    google();
+    changeSomething();
+    restart();
+}
+
+if (codeWorks) {
+    dontTouchIt();
+}
+```
+
+> **99 little bugs in the code, 99 little bugs...
+> Take one down, patch it around... 127 little bugs in the code.**
+
+---
+
+# 🚦 System Status
+
+<table>
+<tr>
+<td>🎮 FiveM Server</td>
+<td>🟢 Probably running</td>
+</tr>
+<tr>
+<td>🐧 Linux Server</td>
+<td>🟢 Alive</td>
+</tr>
+<tr>
+<td>🗄️ Database</td>
+<td>🟢 SELECT * FROM problems;</td>
+</tr>
+<tr>
+<td>☕ Coffee</td>
+<td>🟡 Could be higher</td>
+</tr>
+<tr>
+<td>🧠 Brain</td>
+<td>🟠 Compiling...</td>
+</tr>
+<tr>
+<td>🐛 Bugs</td>
+<td>🔴 Definitely present</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lxcag3d&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxcag3d&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lxcag3d&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lxcag3d&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contributions, but make it a game
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lxcag3d/lxcag3d/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+> *Yes, the snake is eating my contributions.*
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lxcag3d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+# 🎲 Random Dev Facts
+
+<table>
+<tr>
+<td>🌙 Favorite scripting language</td>
+<td><b>Lua</b></td>
+</tr>
+<tr>
+<td>🐧 Server OS</td>
+<td><b>Debian / Linux</b></td>
+</tr>
+<tr>
+<td>🎮 Main playground</td>
+<td><b>FiveM</b></td>
+</tr>
+<tr>
+<td>🗄️ Database</td>
+<td><b>MySQL / MariaDB</b></td>
+</tr>
+<tr>
+<td>🧑‍💻 Editor</td>
+<td><b>VS Code / Visual Studio</b></td>
+</tr>
+<tr>
+<td>🔧 Debug strategy</td>
+<td><b>Change it → Restart → Pray</b></td>
+</tr>
+<tr>
+<td>🔥 Production strategy</td>
+<td><b>"I'll just change this one thing..."</b></td>
+</tr>
+</table>
+
+---
+
+# 💭 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://discord.gg/sASuTNnk2D">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/lxcag3d">
-    <img src="https://img.shields.io/badge/GitHub-lxcag3d-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>FiveM Development • Server Infrastructure • Lua • Web Development</b>
-</p>
+### Wanna talk about FiveM, servers, development or just say hi?
+
+<br>
+
+<a href="https://discord.gg/sASuTNnk2D">
+  <img src="https://img.shields.io/badge/Discord-Join%20my%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+ 
+
+<a href="https://github.com/lxcag3d">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FiveM-Developer-F40552?style=flat-square&logo=fivem&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-Enjoyer-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Server%20Tinkerer-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bugs-Professional%20Creator-red?style=flat-square"/>
+
+<br><br>
+
+### `FiveM Development • Server Infrastructure • Lua • Web • Probably debugging something`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+
+</div>
