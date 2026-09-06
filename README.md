@@ -5,7 +5,7 @@
 ---
 
 ### 📌 About Me
-* 🌐 Based in **North Rhine-Westphalia, Germany** <img src="https://wikimedia.org" width="22" alt="NRW Wappen" valign="middle"> 🇩🇪
+* 🌐 Based in **North Rhine-Westphalia, Germany** <img src="https://wikimedia.org" width="22" alt="NRW Wappen" valign="middle" /> 🇩🇪
 * 🚀 Running and developing a custom **FiveM Server**
 * 🛠️ Deep diving into **Lua scripting** for frameworks like QB-Core / ESX
 * 💬 Ask me about: FiveM optimization, server architecture, and script development
@@ -15,20 +15,15 @@
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Programming Languages
-![Lua](https://shields.io)
-![JavaScript](https://shields.io)
+<img src="https://shields.io" alt="Lua" /> <img src="https://shields.io" alt="JavaScript" />
 
 #### 🎮 Gaming & Infrastructure
-![FiveM](https://shields.io)
-![MySQL](https://shields.io)
-![Linux / Ubuntu](https://shields.io)
-![Visual Studio Code](https://shields.io)
+<img src="https://shields.io" alt="FiveM" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="VS Code" />
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <!-- Zuverlässige Alternative für GitHub-Statistiken -->
   <img src="https://vercel.app" alt="GitHub Stats" height="150" />
   <img src="https://vercel.app" alt="Top Languages" height="150" />
 </p>
@@ -36,4 +31,6 @@
 ---
 
 ### 🔗 Connect with me
-[![Discord](https://shields.io)](https://discord.gg)
+<a href="https://discord.gg" target="_blank">
+  <img src="https://shields.io" alt="Discord" />
+</a>
