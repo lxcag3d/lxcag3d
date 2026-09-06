@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Dein Name]
+# Hi there! 👋 I'm Luca!
 
 <img src="https://demolab.com" alt="Typing SVG" />
 
@@ -27,7 +27,7 @@
 ---
 
 ### 📊 GitHub Stats
-<!-- ERSETZE HIER 'DEIN_GITHUB_NAME' MIT DEINEM ECHTEN NAMEN -->
+<!-- ERSETZE HIER 'lxcag3d' MIT DEINEM ECHTEN NAMEN -->
 <p align="left">
   <img src="https://vercel.app" alt="GitHub Stats" height="150" />
   <img src="https://vercel.app" alt="Top Languages" height="150" />
