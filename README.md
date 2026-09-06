@@ -16,7 +16,10 @@
 ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/Lua-darkblue)
 
 #### 🎮 Gaming & Infrastructure
-<img src="https://i.ibb.co/qY3z554y/fivem-logo-modern-orange-a-logo-4-Nu2ik-QG-removebg-preview.png" height="20" valign="middle"> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Linux" /> <img src="https://i.ibb.co/4nPk5dgp/Visual-Studio-Code-1-35-icon.webp" height="20" valign="middle"> />
+* <img src="https://i.ibb.co/qY3z554y/fivem-logo-modern-orange-a-logo-4-Nu2ik-QG-removebg-preview.png" height="20" valign="middle"> FiveM
+* <img src="https://i.ibb.co/4RCBjmVk/My-SQL-logo.jpg" height="20" valign="middle"> MySQL
+* <img src="https://i.ibb.co/JWHbHF4c/Tux-29.webp" height="20" valign="middle"> Linux
+* <img src="https://i.ibb.co/4nPk5dgp/Visual-Studio-Code-1-35-icon.webp" height="20" valign="middle"> VSCode
 
 ---
 
