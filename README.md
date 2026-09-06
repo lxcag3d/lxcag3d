@@ -4,7 +4,7 @@
 
 ### Developer • FiveM Enthusiast • Server Tinkerer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=FiveM+Developer+%F0%9F%8E%AE;Lua+Enjoyer+%F0%9F%8C%99;Linux+Server+Tinkerer+%F0%9F%90%A7;Breaking+things+until+they+work+%F0%9F%94%A7;Probably+restarting+FXServer..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=FiveM+Developer+%F0%9F%8E%AE;Lua+Enjoyer+%F0%9F%8C%99;Debian+Lover+%F0%9F%90%A7;Breaking+things+until+they+work+%F0%9F%94%A7;Probably+restarting+FXServer..." alt="Typing SVG" />
 
 <br>
 
